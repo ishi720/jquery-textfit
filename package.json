@@ -1,0 +1,19 @@
+{
+  "name": "jquery-textfit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-textfit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishi720/jquery-textfit.git"
+  },
+  "author": "ishi720",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishi720/jquery-textfit/issues"
+  },
+  "homepage": "https://github.com/ishi720/jquery-textfit#readme"
+}
