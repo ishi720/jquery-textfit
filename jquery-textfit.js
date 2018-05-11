@@ -37,18 +37,18 @@ function textShrinkCut( selector, repeat, leader ) {
     //一時的にスクロールバーをつける
     $(selector).css('overflow-y','hidden');
 
-    for (var i = 0; $(selector).isProtrudeHeight() == true || i >= repeat ; i++) {
+    for (var i = 0; $(selector).isProtrudeHeight() === true || i >= repeat ; i++) {
 
         if( i >= repeat - 1){
             //文字を省略する
-            strOmit(selector,leader);
+            textCut(selector,leader);
             break;// 繰り返しの上限達した場合はループを抜ける
         }
 
         //下限判定(メモ：Chromeの最小値が10px)
         if ( parseInt($(selector).css('font-size')) <= 10 ){
             //文字を省略する
-            strOmit(selector);
+            textCut(selector);
             break;// 繰り返しの上限達した場合はループを抜ける
         } else {
             //サイズを調整
@@ -80,7 +80,7 @@ function textCut(selector,leader){
         //一時的にスクロールバーをつける
         element.style.overflowY = 'hidden';
 
-        while( jq_ele.isProtrudeHeight() == true ){
+        while( jq_ele.isProtrudeHeight() === true ){
 
             if(str.length <= 0){
                 break;
