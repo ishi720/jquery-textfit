@@ -5,6 +5,21 @@
 jQuery必須です。
 
 
+
+# インストール
+
+- npm
+
+```
+npm i jquery-textfit
+```
+
+- yarn
+
+```
+yarn add jquery-textfit
+```
+
 # 使い方
 
 -----------
