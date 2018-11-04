@@ -1,5 +1,7 @@
 # jquery-textfit
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3afdbf0526dd463498341a3901115480)](https://app.codacy.com/app/ishi720/jquery-textfit?utm_source=github.com&utm_medium=referral&utm_content=ishi720/jquery-textfit&utm_campaign=Badge_Grade_Dashboard)
+
 文字がはみ出ないように制御するjsです。
 
 jQuery必須です。
