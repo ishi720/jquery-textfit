@@ -1,8 +1,13 @@
 {
   "name": "jquery-textfit",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "文字がはみ出ないように制御するjsです。",
   "main": "jquery-textfit.js",
+  "files": [
+    "README.md",
+    "package.json",
+    "jquery-textfit.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -24,7 +24,7 @@ $.fn.extend({
 * @param leader 省略文字
 * @param repeat 繰り返す上限値
 */
-function textShrinkCut( selector, repeat, leader ) {
+function textShrinkCut( selector, leader, repeat ) {
 
     if( !leader ){
         leader = "…";

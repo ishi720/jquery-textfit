@@ -7,7 +7,9 @@
 
 jQuery必須です。
 
+# SAMPLE
 
+https://ishi720.github.io/jquery-textfit/
 
 # インストール
 
@@ -30,7 +32,7 @@ yarn add jquery-textfit
 ### textShrinkCut()
 
 ```js
-textShrinkCut( selector, repeat, leader );
+textShrinkCut( selector, leader, repeat );
 ```
 
 **説明**
@@ -40,8 +42,8 @@ textShrinkCut( selector, repeat, leader );
 **パラメータ**
 
 - selector: cssセレクタ
-- repeat: 繰り返す上限回数(省略可。デフォルト10)
 - leader: 省略文字 (省略可。デフォルト"…")
+- repeat: 繰り返す上限回数(省略可。デフォルト10)
 
 
 -----------
