@@ -7,6 +7,9 @@
 
 jQuery必須です。
 
+### 2023/5/3 追記 jQueryに依存しないpackageを作成しました →　[textfitJS](https://github.com/ishi720/textfitJS)
+
+
 # SAMPLE
 
 https://ishi720.github.io/jquery-textfit/
