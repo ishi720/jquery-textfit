@@ -1,7 +1,7 @@
 # jquery-textfit
 
 [![npm version](https://badge.fury.io/js/jquery-textfit.svg)](https://badge.fury.io/js/jquery-textfit)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3afdbf0526dd463498341a3901115480)](https://app.codacy.com/app/ishi720/jquery-textfit?utm_source=github.com&utm_medium=referral&utm_content=ishi720/jquery-textfit&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/54a82003878a4a228404ce0bc3e82108)](https://app.codacy.com/gh/ishi720/jquery-textfit/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 文字がはみ出ないように制御するjsです。
 
