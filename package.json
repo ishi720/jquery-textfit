@@ -1,6 +1,6 @@
 {
   "name": "jquery-textfit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "文字がはみ出ないように制御するjsです。",
   "main": "jquery-textfit.js",
   "files": [
